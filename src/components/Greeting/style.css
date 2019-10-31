@@ -1,0 +1,8 @@
+.Greeting{
+    display: flex;
+    background: salmon;
+    height: 50vh;
+    width:100vw;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+.DevCard {
+    background: #bada55;
+    color:darkblue;
+    display: inline-flex;
+    width:25vw;
+    height:200px;
+    justify-content: center;
+    align-items: center;
+    margin:5px;
+}
